@@ -1,2 +1,2 @@
-# MLZ_HW_01
-Code for the ML course assignments
+# Machine Learning Zoomcamp
+The code for the course assignments
